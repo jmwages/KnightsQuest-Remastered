@@ -1,2 +1,2 @@
 # KnightsQuest-Remastered
- A remade and improved verson of a previous class project (CSC103FinalGame)
+ A remade and improved version of a previous class project (CSC103FinalGame)
