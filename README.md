@@ -1,7 +1,7 @@
 # KnightsQuest-Remastered
  by *Jean-Marc Wages*
 
-An updated version of a previous class project, remade code from scratch to improve it.
+An updated version of a previous class project, rewrote code from scratch to improve it.
 
 Run `main()` method in `KQApp` class to launch the game.
 
