@@ -1,4 +1,4 @@
-# KnightsQuest-Remastered
+# Knight's Quest - Remastered
  by *Jean-Marc Wages*
 
 An updated version of a previous class project, rewrote code from scratch to improve it.
